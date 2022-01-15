@@ -1,1 +1,33 @@
-/* header styles */
+/* header styles
+ */
+ body{
+     margin: 0;
+     padding: 0;
+     font font-family: sans serif;
+     position absolute
+      top 50%
+ .camera img{
+     display: flex;
+     flex-direction: column;
+     justify-content: center;
+     align-items: center;
+
+ .footer{
+     margin: 0;
+     padding: 0;
+     box-sizing:border-box ;
+    
+ }
+ body{
+     background-color: white;
+ }
+ footer{
+    background-color: rgb(29, 29, 70);
+    height: auto;
+    width: 100vw;
+    padding: top 40px;
+ }
+ .footer content{
+     display: flex;
+      align-items: center ;
+ }
