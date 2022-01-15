@@ -1,5 +1,14 @@
 /* header styles
  */
+ button{
+     margin: 10px;
+     padding: 10px ;
+     border-radius: 20px;
+     display: block;
+    background-color: rgb(167, 14, 98);
+     button text color: #fffffff00;
+     button transition:0.5s
+ }
  body{
      margin: 0;
      padding: 0;
